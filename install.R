@@ -1,1 +1,1 @@
-install.packages(c("ggplot", "Hmisc", "performance", "car", "olsrr", "MASS"))
+install.packages(c("tidyverse", "Hmisc", "performance", "car", "olsrr", "MASS"))
